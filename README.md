@@ -4,7 +4,7 @@
 
 <p align="center">
   <b><i>"I don’t always fix bugs, but when I do..."</i></b><br/>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%"/><br/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50%"/><br/>
   <sub><i>I create new ones 🐛➡️🐛🐛</i></sub>
 </p>
 
