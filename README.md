@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4654&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Moksh+Gupta;Web-dev+tinkerer+%F0%9F%94%A7;UI%2FUX+Lover+🎨;Bug+Creator+%26+Bug+Fixer+🐛;With+great+power+comes+great+commits+🕸️">
 </h1>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moksh205&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4654&icon_color=FF4654" alt="Moksh's GitHub stats" width="400"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moksh205&layout=compact&theme=tokyonight&card_width=320&hide_border=true&bg_color=0D1117&title_color=FF4654" alt="Most used languages" width="400"/>
+  <b><i>"I don’t always fix bugs, but when I do..."</i></b><br/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%"/><br/>
+  <sub><i>I create new ones 🐛➡️🐛🐛</i></sub>
 </p>
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -16,11 +16,15 @@
 
 ### 🕸️ Welcome to my GitHub — Enter the Multiverse 🌌  
 
-<p align="center">
-  <b><i>"I don’t always fix bugs, but when I do..."</i></b><br/>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="220"/><br/>
-  <sub><i>I create new ones 🐛➡️🐛🐛</i></sub>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moksh205&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4654&icon_color=FF4654" 
+     alt="Moksh's GitHub stats" width="400"/>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moksh205&layout=compact&theme=tokyonight&card_width=320&hide_border=true&bg_color=0D1117&title_color=FF4654" 
+     alt="Most used languages" width="400"/>  
+
+</div>  
 
 ---
 
@@ -34,17 +38,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
 
 ---
 
 <div align="center">
 
 ### 🎖️ My Developer Badges  
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
 
 ![Meme](https://img.shields.io/badge/With_great_power-Comes_great_commits-red?style=for-the-badge&logo=github)  
 ![Bug Creator](https://img.shields.io/badge/Bug_Creator-100%25-critical?style=for-the-badge&logo=github)  
@@ -59,8 +61,7 @@
 
 ## ✉️ Contact  
 - 📧 **Email:** mokshgupta810@gmail.com  
----
-
+- 🙋‍♂️ **Pronouns:** He / Him  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
