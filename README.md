@@ -1,10 +1,6 @@
-# 👋 Hi, I’m Moksh Gupta  
-
-<p align="center">
-  <a href="https://github.com/moksh205">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF4654&width=500&lines=Web-dev+tinkerer+%F0%9F%94%A7;UI%2FUX+lover+%F0%9F%92%8E;Bug+creator+by+profession+%F0%9F%90%9B➡️%F0%9F%90%9B%F0%9F%90%9B;Making+CSS+center+a+div+(maybe) 🤯" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4654&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Moksh+Gupta;Web-dev+tinkerer+%F0%9F%94%A7;UI%2FUX+Lover+🎨;Bug+Creator+%26+Bug+Fixer+🐛;With+great+power+comes+great+commits+🕸️">
+</h1>
 
 <sub><i>I don’t always fix bugs, but when I do, I create new ones 🐛➡️🐛🐛</i></sub>  
 
@@ -27,7 +23,6 @@
 ## 🎬 Spider-Man Moment  
 
 <p align="center">
-  <!-- Clickable thumbnail -->
   <a href="https://youtu.be/dgOvVkHKrlQ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/dgOvVkHKrlQ/0.jpg" 
          alt="Spider-Man — click to play" width="380" 
@@ -36,7 +31,6 @@
 </p>
 
 <p align="center">
-  <!-- Funny GIF -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
        alt="Spider-Man GIF" width="360"/>
 </p>
@@ -67,3 +61,7 @@
 I can solve a Rubik’s cube in under a minute — but most of the time I’m stuck debugging why my CSS isn’t centering a div 🤯.  
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
