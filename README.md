@@ -29,12 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Funny GIF -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
-       alt="Spider-Man GIF" width="360"/>
-</p>
-
 ---
 
 <div align="center">
