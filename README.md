@@ -35,15 +35,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
 
 ---
 
 <div align="center">
 
 ### 🎖️ My Developer Badges  
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
 
 ![Meme](https://img.shields.io/badge/With_great_power-Comes_great_commits-red?style=for-the-badge&logo=github)  
 ![Bug Creator](https://img.shields.io/badge/Bug_Creator-100%25-critical?style=for-the-badge&logo=github)  
@@ -58,15 +60,8 @@
 
 ## ✉️ Contact  
 - 📧 **Email:** mokshgupta810@gmail.com  
-- 🙋‍♂️ **Pronouns:** He / Him  
-
 ---
 
-### 🎲 Fun Bit  
-I can solve a Rubik’s cube in under a minute —  
-but I still can’t figure out why **CSS thinks center = not centered** 🤯.  
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
