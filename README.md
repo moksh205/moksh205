@@ -5,16 +5,12 @@
 <p align="center">
   <b><i>"I don’t always fix bugs, but when I do..."</i></b><br/>
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/><br/>
-  <h3 align="center">
-  <samp> I don’t always fix bugs... </samp><br/>
-  <samp> But when I do → 🐛➡️🐛🐛 </samp>
-</h3>
-
+  <sub><i>I create new ones 🐛➡️🐛🐛</i></sub>
 </p>
 
 ---
 
-### 🕸️ Welcome to my GitHub — with a Spider-Man vibe 🕷️  
+### 🕸️ Welcome to my GitHub   
 
 <div align="center">
 
@@ -37,13 +33,6 @@
          style="border-radius:10px; box-shadow:0 8px 24px rgba(255,70,84,0.6)"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
-       alt="Spider-Man GIF" width="360"/>
-</p>
-
----
 
 <div align="center">
 
