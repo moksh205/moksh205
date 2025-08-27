@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4654&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Moksh+Gupta;Web-dev+tinkerer+%F0%9F%94%A7;UI%2FUX+Lover+🎨;Bug+Creator+%26+Bug+Fixer+🐛;With+great+power+comes+great+commits+🕸️">
 </h1>
 
-<sub><i>I don’t always fix bugs, but when I do, I create new ones 🐛➡️🐛🐛</i></sub>  
+<p align="center">
+  <b><i>"I don’t always fix bugs, but when I do..."</i></b><br/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/><br/>
+  <sub><i>I create new ones 🐛➡️🐛🐛</i></sub>
+</p>
 
 ---
 
