@@ -1,17 +1,10 @@
 # 👋 Hi, I’m Moksh Gupta
 > Web-dev tinkerer · UI/UX lover · Puzzle solver 🔧🧩
 
-<div align="center">
-
-[![Holopin badges for @moksh205](https://holopin.me/moksh205)](https://holopin.io/@moksh205)
-
 ---
 
 ### 🎬 Welcome to my GitHub — with a Spider-Man vibe 🕸️🕷️
-> Dark theme, motion, and a little superhero energy — copy & paste this README into your repo.  
-> *Tip:* Replace `VIDEO_ID` below with any YouTube ID you prefer (or keep the GIF).
-
-</div>
+> Dark theme, motion, and a little superhero energy — copy & paste this README into your repo.
 
 ---
 
@@ -39,12 +32,12 @@
 ---
 
 # 📽️ Spider-Man Vibe (video + GIF)
-Click the thumbnail to open the Spider-Man clip on YouTube — or enjoy the GIF below right in the README.
+Click the thumbnail to open the Spider-Man clip on YouTube.
 
-<!-- 1) YouTube clickable thumbnail: replace VIDEO_ID with your chosen YouTube ID -->
-[![Spider-Man Vibe — click to play](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<!-- YouTube clickable thumbnail (VIDEO_ID = dgOvVkHKrlQ) -->
+[![Spider-Man Vibe — click to play](https://img.youtube.com/vi/dgOvVkHKrlQ/0.jpg)](https://www.youtube.com/watch?v=dgOvVkHKrlQ)
 
-<!-- 2) Inline GIF fallback (visible in README) -->
+<!-- Inline GIF fallback (visible in README) -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Spider-Man swinging GIF" width="420"/>
 </p>
@@ -70,7 +63,7 @@ Click the thumbnail to open the Spider-Man clip on YouTube — or enjoy the GIF 
 - **Hospital Management** — billing feature & `Bill` model.  
   `[Hospital Management](https://github.com/moksh205/hospital-management)`
 
-> Replace the repo links above with your actual repo URLs if different.
+> Replace the repo links above with your actual repo URLs if they differ.
 
 ---
 
