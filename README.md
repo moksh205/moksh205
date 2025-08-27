@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moksh205&layout=compact&theme=tokyonight&card_width=320&hide_border=true&bg_color=0D1117&title_color=FF4654" alt="Most used languages" width="400"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
