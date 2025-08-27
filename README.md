@@ -18,7 +18,7 @@
 ---
 
 ## 🎬 Spider-Man vibe
-Click to open the clip on YouTube.
+
 
 <p align="center">
   <a href="https://youtu.be/dgOvVkHKrlQ" target="_blank" rel="noopener">
