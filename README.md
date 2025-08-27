@@ -1,5 +1,11 @@
 # 👋 Hi, I’m Moksh Gupta  
-**Web-dev tinkerer · UI/UX lover** 🔧  
+
+<p align="center">
+  <a href="https://github.com/moksh205">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF4654&width=500&lines=Web-dev+tinkerer+%F0%9F%94%A7;UI%2FUX+lover+%F0%9F%92%8E;Bug+creator+by+profession+%F0%9F%90%9B➡️%F0%9F%90%9B%F0%9F%90%9B;Making+CSS+center+a+div+(maybe) 🤯" alt="Typing SVG" />
+  </a>
+</p>
+
 <sub><i>I don’t always fix bugs, but when I do, I create new ones 🐛➡️🐛🐛</i></sub>  
 
 ---
@@ -29,6 +35,12 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Funny GIF -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
+       alt="Spider-Man GIF" width="360"/>
+</p>
+
 ---
 
 <div align="center">
@@ -38,6 +50,8 @@
 ![Bug Creator](https://img.shields.io/badge/Bug_Creator-100%25-critical?style=for-the-badge&logo=github)  
 ![Ctrl+C Ctrl+V](https://img.shields.io/badge/Code-CTRL+C%20%7C%20CTRL+V-blue?style=for-the-badge)  
 ![Works on my machine](https://img.shields.io/badge/It%20works-On_my_machine-success?style=for-the-badge)  
+![Coffee](https://img.shields.io/badge/Fueled_By-Coffee-darkred?style=for-the-badge)  
+![Chaos](https://img.shields.io/badge/Debugger-Professional_Chaos_Engineer-orange?style=for-the-badge)  
 
 </div>  
 
